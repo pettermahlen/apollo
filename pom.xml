@@ -27,6 +27,8 @@
         <module>modules/slack</module>
         <module>modules/jetty-http-server</module>
         <module>modules/okhttp-client</module>
+
+        <module>apollo-http-service-archetype</module>
     </modules>
 
     <properties>
